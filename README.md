@@ -16,8 +16,7 @@ This Power BI Sales Analytics Dashboard provides a comprehensive overview of sal
 
 ## How to Use
 1. Open the Power BI file (.pbix) in Power BI Desktop.
-2. Connect your dataset if required.
-3. Explore different insights using filters for category and ship city.
+2. Explore different insights using filters for category and ship city.
 
 ## Repository Structure
 ```
